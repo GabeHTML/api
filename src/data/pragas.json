@@ -1,0 +1,52 @@
+[
+    {   
+        "login": "Lagarta Do Cartucho",
+        "id": "1",
+        "nome": "Lagarta do Cartucho",
+        "foto": "https://ourofinoagro.com.br/wp-content/uploads/2022/03/imagem-laagrta-do-cartucho-1.png",
+        "descricao": "As lagartas recém eclodidas raspam as folhas e se alojam no cartucho, onde se observa seus excrementos. Pela destruição do cartucho, principalmente na fase próxima ao florescimento, podem causar danos expressivos que se acentuam em períodos de seca. Os dnos são maiores quando o ataque ocorre em plantas com 8 a 10 folhas.",
+        "danos": "Esta espécie ataca preferencialmente o cartucho, mas também podem ser encontradas atacando plântulas, com hábito semelhante ao da lagarta rosca, espigas e, também, perfurando a base da planta, atingindo o ponto de crescimento e provocando o sintoma de coração morto, típico da elasmo.",
+        "controle": "Tratamento de sementes, para controle nas fases iniciais da cultura, e aplicação de inseticidas sistêmicos, que controlam bem a praga quando as condições de suprimento de água são satisfatórias. Em condições de déficit hídrico, os tratamentos anteriores devem ser suplementados com pulverizações direcionadas para a região do cartucho. Recomenda-se o uso de produtos registrados para as culturas.",
+        "culturas afetadas": "Acelga, Agrião, Alface, Alfafa, Algodão, Almeirão, Alstroemeria, Amendoim, Arroz, Arroz irrigado, Arroz sequeiro, Aveia, Batata, Boca de Leao, Brócolis, Cana-de-açúcar, Cenoura, Centeio, Cevada, Chicória, Coco, Couve, Couve-flor, Crisântemo , Espatifilo, Espinafre, Estévia, Feijão, Fumo, Gérbera, Gipsofila, Lisianthus, Mamona, Mandioca, Maracujá, Milheto, Milho, Milho (Pré-plantio), Mostarda, Pastagens, Pimenta, Pimentão, Repolho, Rosa, Rúcula, Seringueira (Floresta implantada), Soja, Sorgo, Todas, Todas as culturas com ocorrência do alvo biológico, Tomate, Trigo, Triticale"
+    },
+    {
+        "login": "Pulgoes",
+        "id": "2",
+        "nome": "Pulgões",
+        "foto": "https://safraviva.com.br/wp-content/uploads/pulgoes.jpg.webp",
+        "descricao": "Insetos que vivem nos ramos novos e folhagens sugando a seiva das plantas. Tanto as formas ápteras quanto as aladas, apresentam coloração geral preta. Medem cerca de 3 a 4 mm de comprimento.",
+        "danos": "Pela sucção da seiva causam deformações nos brotos e folhas, comprometendo o desenvolvimento das plantas.",
+        "controle": "Pulverização com inseticidas sistêmicos",
+        "culturas afetadas": "Ervilha, Feijão, Feijão-vagem"
+    },
+    {
+        "login": "Mosca Branca",
+        "id": "3",
+        "nome": "Mosca Branca",
+        "foto": "https://www.rastrorural.com.br/media/k2/items/cache/b8292acafd72142128a3481ac4b0abff_XL.jpg",
+        "descricao": "É uma importante praga, principalmente por se tratar de um grande transmissor de vírus.",
+        "danos": "Os insetos têm ação toxicogênica, sendo que os maiores prejuízos são devidos a transmissão de viroses. Para o feijoeiro é transmissor do vírus do mosaico dourado e do mosaico anão. São mais prejudiciais no período do florescimento.",
+        "controle": "Tratamento de sementes com inseticidas carbamatos sistêmicos ou sistêmico granulado no sulco de plantio ou, ainda, pulverizar com fosforados sistêmicos. Uso de armadilhas de cor amarela ajudam a diminuir número de adultos na área.",
+        "culturas afetadas": "Abóbora, Abobrinha, Algodão, Berinjela, Brócolis, Chuchu, Couve, Couve-flor, Ervilha, Feijão, Fumo, Jiló, Mamão, Mandioca, Melancia, Melão, Pepino, Pimenta, Pimentão, Quiabo, Repolho, Soja, Todas as culturas com ocorrência do alvo biológico, Tomate, Tomate industrial, Uva" 
+    },
+    {
+        "login": "Larva Minadora",
+        "id": "4",
+        "nome": "Larva minadora",
+        "foto": "https://revistacampoenegocios.com.br/wp-content/uploads/2016/12/Foto-01-Crédito-UFRGS.jpg",
+        "descricao": "São insetos cujas larvas causam prejuízos nas culturas da batata, berinjela, feijão, feijão-vagem, melancia, melão, pepino, pimentão e tomate.",
+        "danos": "As larvas abrem minas no interior do parênquima foliar e se alimentam dos tecidos, destroem parcialmente ou totalmente a folha, provocando seu secamento. Em determinados casos, quando o ataque é muito intenso, podem prejudicar o desenvolvimento da cultura.",
+        "controle": "Recomenda-se a pulverização com inseticidas piretróides ou a aplicação de inseticidas sistêmicos granulados específicos para a cultura, registrados para as culturas.",
+        "culturas afetadas": "Agrião, Alface, Almeirão, Batata, Beterraba, Chicória, Crisântemo , Ervilha, Espinafre, Feijão, Feijão-vagem, Melancia, Melão, Pepino, Rosa, Rúcula, Tomate, Tomate industrial, Tomate rasteiro, Tomate rasteiro industrial" 
+    },
+    {
+        "login": "Ácaro Rajado",
+        "id": "5",
+        "nome": "Ácaro Rajado",
+        "foto": "https://i.pinimg.com/736x/6c/40/3e/6c403ecb280e490fc89d6c58439158a4.jpg",
+        "descricao": "Esta espécie de ácaro causa danos a várias espécies de plantas. Esta espécie ocorre em várias culturas de importância econômica, como abóbora, algodão, amendoim, berinjela, crisântemo, feijão, maçã, mamão, mamona, melancia, melão, morango, pepino, pêra, pêssego, pimentão, rosa e tomate.",
+        "danos": "O ácaro rajado é uma espécie cosmopolita e polífaga, sendo considerada praga primária em diversas culturas. Como todas as espécies de tetraniquídeos, ocorrem na superfície inferior das folhas. As folhas infestadas por este ácaro inicialmente tornam-se amareladas, na face oposta a colônia. Posteriormente, estas áreas ficam necrosadas, ocorrendo perfurações nas folhas. Sob infestações severas, ocasionam a desfolha precoce afetando a produtividade.",
+        "controle": "Aplicações de produtos defensivos deve ser realizadas nas horas mais frescas do dia. Usar produtos registrados para as culturas.",
+        "culturas afetadas": "Abacate, Abacaxi, Abóbora, Abobrinha, Acerola, Algodão, Amendoim, Amora preta, Anonáceas, Azeitona, Berinjela, Cacau, Caqui, Carambola, Chuchu, Cravo, Crisântemo , Cupuaçu, Dália, Eucalipto, Feijão, Framboesa, Guaraná, Hortência, Jiló, Kiwi, Maçã, Mamão, Mamona, Manga, Maracujá, Maxixe, Melancia, Melão, Milho, Mirtilo, Morango, Pepino, Pera, Pêssego, Pimenta, Pimentão, Pitanga, Quiabo, Romã, Rosa, Seriguela, Soja, Todas as culturas com ocorrência do alvo biológico, Tomate, Uva"
+    }  
+  ]
